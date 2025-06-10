@@ -4,7 +4,7 @@
 # Skrip Otomatis Terpadu untuk Instalasi Prometheus, Grafana, dan SNMP Exporter
 # Versi 3.0: Dengan validasi penuh dan auto-recovery
 # Dioptimasi untuk Ubuntu 20.04 / 22.04
-# Dibuat oleh: cybertronx371 + Copilot
+# Dibuat oleh: NEOCORE.ID
 # Tanggal: 2025-06-10
 # ===================================================================================
 
